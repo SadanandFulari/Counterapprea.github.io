@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/counterappreact.github.io/static/css/main.ce12ba3d.chunk.css",
-    "main.js": "/counterappreact.github.io/static/js/main.e0077826.chunk.js",
-    "main.js.map": "/counterappreact.github.io/static/js/main.e0077826.chunk.js.map",
-    "runtime-main.js": "/counterappreact.github.io/static/js/runtime-main.2e476fe5.js",
-    "runtime-main.js.map": "/counterappreact.github.io/static/js/runtime-main.2e476fe5.js.map",
-    "static/js/2.0d203789.chunk.js": "/counterappreact.github.io/static/js/2.0d203789.chunk.js",
-    "static/js/2.0d203789.chunk.js.map": "/counterappreact.github.io/static/js/2.0d203789.chunk.js.map",
-    "static/js/3.851d5d0e.chunk.js": "/counterappreact.github.io/static/js/3.851d5d0e.chunk.js",
-    "static/js/3.851d5d0e.chunk.js.map": "/counterappreact.github.io/static/js/3.851d5d0e.chunk.js.map",
-    "index.html": "/counterappreact.github.io/index.html",
-    "static/css/main.ce12ba3d.chunk.css.map": "/counterappreact.github.io/static/css/main.ce12ba3d.chunk.css.map",
-    "static/js/2.0d203789.chunk.js.LICENSE.txt": "/counterappreact.github.io/static/js/2.0d203789.chunk.js.LICENSE.txt"
+    "main.css": "/Counterapp.github.io/static/css/main.ce12ba3d.chunk.css",
+    "main.js": "/Counterapp.github.io/static/js/main.20155ee2.chunk.js",
+    "main.js.map": "/Counterapp.github.io/static/js/main.20155ee2.chunk.js.map",
+    "runtime-main.js": "/Counterapp.github.io/static/js/runtime-main.5e19fa3c.js",
+    "runtime-main.js.map": "/Counterapp.github.io/static/js/runtime-main.5e19fa3c.js.map",
+    "static/js/2.0d203789.chunk.js": "/Counterapp.github.io/static/js/2.0d203789.chunk.js",
+    "static/js/2.0d203789.chunk.js.map": "/Counterapp.github.io/static/js/2.0d203789.chunk.js.map",
+    "static/js/3.851d5d0e.chunk.js": "/Counterapp.github.io/static/js/3.851d5d0e.chunk.js",
+    "static/js/3.851d5d0e.chunk.js.map": "/Counterapp.github.io/static/js/3.851d5d0e.chunk.js.map",
+    "index.html": "/Counterapp.github.io/index.html",
+    "static/css/main.ce12ba3d.chunk.css.map": "/Counterapp.github.io/static/css/main.ce12ba3d.chunk.css.map",
+    "static/js/2.0d203789.chunk.js.LICENSE.txt": "/Counterapp.github.io/static/js/2.0d203789.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2e476fe5.js",
+    "static/js/runtime-main.5e19fa3c.js",
     "static/js/2.0d203789.chunk.js",
     "static/css/main.ce12ba3d.chunk.css",
-    "static/js/main.e0077826.chunk.js"
+    "static/js/main.20155ee2.chunk.js"
   ]
 }
