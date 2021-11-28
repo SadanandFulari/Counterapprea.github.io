@@ -1,0 +1,26 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.main{
+  background: url("https://tse1.mm.bing.net/th?id=OIP.h-Ap3vy2XCo8PjLeZBbQ4gHaEK&pid=Api&P=0&w=288&h=163");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+}
+h1{
+  font-size: 60px;
+}
+.App {
+  text-align: center;
+  margin: 0px ;
+  
+}
+button{
+  padding: 20px;
+  font-size: 30px;
+  margin: 20px;
+  background-color: black;
+  color: white;
+}
